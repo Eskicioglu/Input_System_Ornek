@@ -13,7 +13,7 @@ public class KarakterKontrol_1 : MonoBehaviour
     {
         if (Accelerometer.current !=null)
         {
-            InputSystem.EnableDevice(Accelerometer.current);
+          //   InputSystem.EnableDevice(Accelerometer.current);
 
         }
     }

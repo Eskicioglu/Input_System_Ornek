@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Ornek/InputModule.unity
+- path: Assets/DogruKodlama/RocketDeneme.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
